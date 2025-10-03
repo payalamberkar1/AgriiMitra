@@ -1,4 +1,4 @@
-# Agrimitra: Smart Agricultural Advisory and Monitoring System 🧑‍🌾🌿
+# Agrimitra: Smart Agricultural Advisory and Monitoring System 🧑‍🌾
 
 Agrimitra is a digital platform that combines AI-driven insights with IoT-powered monitoring to help farmers make smarter, sustainable decisions. Think of it as your friendly farm co-pilot! It continuously tracks soil health, weather conditions, and crop status, delivering real-time advisories and alerts for optimized irrigation, early pest and disease detection, and efficient resource usage. Always watching, always learning, and always ready with practical recommendations.
 
@@ -268,3 +268,4 @@ We're always looking ahead! Our plans include:
 Built with curiosity, coffee, and a passion for sustainable agriculture. Big thanks to the IEEE Innoquest community, mentors, and fellow teams for the inspiration and feedback!
 
 If you’d like to contribute, showcase, or integrate Agrimitra, we’re happy to collaborate!
+
