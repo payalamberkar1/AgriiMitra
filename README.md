@@ -18,6 +18,19 @@ Agrimitra is a digital platform that combines AI-driven insights with IoT-powere
 
 ---
 
+## Hackathon Deliverables (IEEE Innoquest)
+
+For the IEEE Innoquest hackathon, we plan to deliver:
+
+*   **Demo-ready Web Interface** featuring:
+    *   New Farmers, Urban Farming, and Gardening modules.
+    *   Crop info, lifecycle videos, disease risks, and solutions.
+    *   Garden Planner inputs and visual outputs.
+    *   Automation Control Panel (start/stop robotic arm, irrigation, status dashboard).
+*   **Pitch Assets:**
+    *   PowerPoint Presentation.
+---
+
 ## System Architecture Overview
 
 Agrimitra is built on two main pillars that work seamlessly together:
@@ -31,12 +44,10 @@ This is the farmer's command center!
 
 ### 2. IoT & Automation Layer
 
-The muscles and senses of Agrimitra!
-*   **Sensor nodes** deployed in fields or aeroponic towers stream crucial data to the backend.
+The muscles and senses of AgriMitra!
+*   **Sensor nodes** deployed in field or aeroponic towers stream crucial data to the backend.
 *   The **Robotic Planting Arm** executes precise planting operations based on optimized paths.
 *   **Actuators** (like pumps and valves) respond to irrigation commands.
-*   **Backend algorithms** (designed with a DAA perspective) optimize planting patterns and movement efficiency.
-
 ---
 
 ## Project Workflow
@@ -84,12 +95,7 @@ The muscles and senses of Agrimitra!
 *   **Plant Seed:** Places the seed accurately.
 *   **Move Specified Distance:** Maintains optimal spacing.
 *   **Repeat Cycle:** Efficiently covers your planting area.
-
-#### **Backend Algorithm (DAA perspective)**
-*   **Algorithm Design:** Focuses on grid-based path planning and task scheduling.
-*   **Algorithm Analysis:** Evaluates time and space complexity for movement and control.
-*   **Optimization:** Minimizes travel distance, balances workload, and reduces water usage.
-
+  
 ---
 
 ## How It Works
@@ -132,12 +138,7 @@ The muscles and senses of Agrimitra!
 *   **Seed Planting Cycle:** Position → hole creation → seed drop → spacing move → repeat.
 *   **Safety Features:** Interlocks and calibration routines for reliable operation.
 *   **Telemetry:** For performance analytics and monitoring.
-
-### Backend Algorithm (DAA Perspective)
-*   **Design:** Grid-based path planning for planting; scheduling for irrigation tasks.
-*   **Analysis:** Time and space complexity evaluations for movement and control loops.
-*   **Optimization:** Minimizing travel distance, balancing workload, and reducing water usage for sustainability.
-
+  
 ---
 
 ## Tech Stack (Indicative)
@@ -216,28 +217,6 @@ We've built Agrimitra with robustness in mind:
 
 ---
 
-## Hackathon Deliverables (IEEE Innoquest)
-
-For the IEEE Innoquest hackathon, we plan to deliver:
-
-*   **Demo-ready Web Interface** featuring:
-    *   New Farmers, Urban Farming, and Gardening modules.
-    *   Crop info, lifecycle videos, disease risks, and solutions.
-    *   Garden Planner inputs and visual outputs.
-    *   Automation Control Panel (start/stop robotic arm, irrigation, status dashboard).
-*   **IoT Demo:**
-    *   Live sensor feed (mock or real data).
-    *   Robotic Arm (executing a planting cycle or mock demo).
-*   **Algorithm Report (DAA):**
-    *   Problem formulation and design choices.
-    *   Complexity analysis.
-    *   Optimization results and trade-offs.
-*   **Pitch Assets:**
-    *   Presentation.
-    *   Estimated impact metrics (water saved, time saved, yield improvement).
-
----
-
 ## Impact
 
 Agrimitra aims to cultivate a more sustainable future:
@@ -265,7 +244,8 @@ We're always looking ahead! Our plans include:
 
 ## Team and Acknowledgments
 
-Built with curiosity, coffee, and a passion for sustainable agriculture. Big thanks to the IEEE Innoquest community, mentors, and fellow teams for the inspiration and feedback!
+Built with curiosity, coffee, and a passion for sustainable agriculture by Vaishnavi Sonawane, Payal Amberkar, Yash Pawar and Yugandhar Kulkarni. Big thanks to the IEEE Innoquest community, mentors, and fellow teams for the inspiration and feedback!
 
 If you’d like to contribute, showcase, or integrate Agrimitra, we’re happy to collaborate!
+
 
