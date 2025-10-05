@@ -48,6 +48,7 @@ The muscles and senses of AgriMitra!
 *   **Sensor nodes** deployed in field or aeroponic towers stream crucial data to the backend.
 *   The **Robotic Planting Arm** executes precise planting operations based on optimized paths.
 *   **Actuators** (like pumps and valves) respond to irrigation commands.
+
 ---
 
 ## Project Workflow
@@ -93,9 +94,10 @@ The muscles and senses of AgriMitra!
 #### **Robotic Planting Arm**
 *   **Create Hole:** Prepares the soil.
 *   **Plant Seed:** Places the seed accurately.
+*   **Cover Seed:** Cover the seed with the minimum required soil.
 *   **Move Specified Distance:** Maintains optimal spacing.
 *   **Repeat Cycle:** Efficiently covers your planting area.
-  
+
 ---
 
 ## How It Works
@@ -149,8 +151,6 @@ Here's a peek at the technologies powering Agrimitra:
 *   **Backend:** `Node.js/Python`, `REST APIs`, `WebSockets` (for real-time updates).
 *   **IoT:** `ESP8266`, various sensor suites (moisture, DHT, light), `MQTT/HTTP` for communication.
 *   **Robotics:** Stepper/servo motors, kinematics control, path planning routines.
-*   **Data:** `Time-series DB` (`InfluxDB/TimescaleDB`) for sensor data + `Postgres` for metadata.
-*   **Deployment:** `Docker`, `CI/CD`; cloud or edge gateway solutions.
 *   **Visualization:** Charts for sensor trends, interactive maps for layout planning, clear alert banners.
 
 *Note: The exact stack can be adapted based on hackathon constraints and available hardware.*
@@ -234,6 +234,7 @@ Agrimitra aims to cultivate a more sustainable future:
 We're always looking ahead! Our plans include:
 
 *   More crop models and local-language support.
+*   AI powered chatbot for expert consultation.
 *   Advanced disease detection using image analysis.
 *   Predictive yield forecasting for better planning.
 *   A mobile app with offline capabilities.
